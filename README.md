@@ -44,7 +44,8 @@ int main() {
 The search complexity of `CFastPatternsScanner` is O(n*m), where n is the length of the data and m is the length of the longest pattern. This represents the maximum complexity of the algorithm in the worst case scenario.
 
 ## License
-[![GNU AGPLv3 Image](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.html)  
+
+[![GNU AGPLv3 Image](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.html)
 
 This program is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
